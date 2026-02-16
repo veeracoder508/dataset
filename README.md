@@ -1,3 +1,3 @@
 # dataset
 
-This is a repostory to find datasets for training a model.
+This is a repository to find datasets for training a model.
